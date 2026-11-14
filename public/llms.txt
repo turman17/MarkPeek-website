@@ -1,0 +1,15 @@
+# MarkPeek
+
+> MarkPeek is a free, open-source (GPL-3.0) Markdown viewer and editor for macOS 14 or later with themed Quick Look previews. Select a Markdown file in Finder, press Space, and read a rendered page instead of raw text. It opens .md, .markdown, .mdown, .mkd, .mkdn, .mdwn, .mdtxt, .mdtext, .mdx, .rmd and .qmd files; has Preview, Split and Edit modes, an Outline, Find and Focus Mode; ships six built-in themes (Modern, Serif, GitHub, Plain, Paper, Mono) with a Theme Inspector and a New Theme builder; renders math (MathJax) and Mermaid diagrams offline; and exports to PDF, self-contained HTML or Print. It is sandboxed, has no accounts or analytics, and its only network request is a daily update check against the GitHub API. It is not notarized by Apple, so Gatekeeper blocks the first launch. The current version is 1.0.0, released on 14 November 2026. Install with Homebrew (`brew trust --cask turman17/tap/markpeek`, then `brew install --cask turman17/tap/markpeek`), with the one-line installer (`curl -fsSL https://raw.githubusercontent.com/turman17/MarkPeek/main/scripts/install.sh | bash`), or download the .dmg or .zip from GitHub Releases.
+
+- [Home](https://turman17.github.io/MarkPeek-website/): what it is, supported formats, themes, privacy, download, installing an unsigned app and FAQ
+- [Guides](https://turman17.github.io/MarkPeek-website/guides/): built-in macOS methods and the MarkPeek way for common Markdown tasks
+- [Preview Markdown files in Finder with Quick Look on Mac](https://turman17.github.io/MarkPeek-website/guides/quick-look-markdown-preview-mac/)
+- [The best way to open and view .md files on a Mac](https://turman17.github.io/MarkPeek-website/guides/open-view-md-files-mac/)
+- [Export Markdown to PDF on a Mac](https://turman17.github.io/MarkPeek-website/guides/markdown-to-pdf-mac/)
+- [Render math (LaTeX) and Mermaid diagrams in Markdown on a Mac](https://turman17.github.io/MarkPeek-website/guides/markdown-math-mermaid-mac/)
+- [Edit Markdown with a live preview on a Mac](https://turman17.github.io/MarkPeek-website/guides/edit-markdown-live-preview-mac/)
+- [Fix Quick Look showing plain text for Markdown on Mac](https://turman17.github.io/MarkPeek-website/guides/fix-quick-look-markdown-plain-text/)
+- [Source code](https://github.com/turman17/MarkPeek)
+- [Releases](https://github.com/turman17/MarkPeek/releases)
+- [Author: turman17](https://github.com/turman17)
