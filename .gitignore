@@ -3,3 +3,7 @@ node_modules/
 out/
 tsconfig.tsbuildinfo
 next-env.d.ts
+.DS_Store
+*.tsbuildinfo
+test-results/
+playwright-report/
